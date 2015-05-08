@@ -53,6 +53,9 @@ enum program_return_codes {
 
 // Some systems don't define posix_openpt
 #ifndef HAVE_POSIX_OPENPT
+/*
+	用于没有函数posix_openpt(int flags）的，给他声明一个
+*/
 int
 posix_openpt(int flags)
 {
@@ -61,6 +64,10 @@ posix_openpt(int flags)
 #endif
 
 int runprogram( int argc, char *argv[] );
+
+/*
+	参数结构体，用于确定不同方式使用的参数
+*/
 
 struct {
     enum { PWT_STDIN, PWT_FILE, PWT_FD, PWT_PASS } pwtype;
