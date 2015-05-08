@@ -1,0 +1,1070 @@
+192.168.0.101 lmg lmglmgproc.HasProc:	1
+proc.ActiveProc:	1
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgproc.HasProc:	2
+proc.ActiveProc:	2
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgproc.HasProc:	3
+proc.ActiveProc:	3
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgproc.HasProc:	4
+proc.ActiveProc:	4
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgproc.HasProc:	5
+proc.ActiveProc:	5
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgproc.HasProc:	6
+proc.ActiveProc:	6
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgproc.HasProc:	7
+proc.ActiveProc:	7
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgproc.HasProc:	8
+proc.ActiveProc:	8
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgproc.HasProc:	9
+proc.ActiveProc:	9
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgHost check: 2, key: <none>
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+ssh_init
+
+
+*ssh_cmd::pcmdstr=pwd
+
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+
+*ssh_cmd::pcmdstr=pwd
+
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+ssh_init
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+
+*ssh_cmd::pcmdstr=
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned -37
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	10
+proc.ActiveProc:	9
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	11
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+proc.HasProc:	12
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmgHost check: 2, key: <none>
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+ssh_init
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+ssh_init
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+proc.HasProc:	14
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+libssh2_channel_read returned -37
+proc.HasProc:	15
+proc.ActiveProc:	9
+proc.ZombieNum:	2
+192.168.0.101 lmg lmglmglibssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+
+*ssh_cmd::pcmdstr=pwd
+
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	16
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+ssh_init
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned -37
+proc.HasProc:	17
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned -37
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned -37
+ssh_init
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	18
+proc.ActiveProc:	9
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmglibssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	19
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailablessh_init
+all done
+proc.HasProc:	20
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+ssh_init
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	21
+proc.ActiveProc:	9
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailablelibssh2_channel_read returned -37
+libssh2_channel_read returned -37
+proc.HasProc:	22
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailable
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+libssh2_channel_read returned 0
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+
+*ssh_cmd::pcmdstr=
+proc.HasProc:	24
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmgssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	25
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	26
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+ssh_init
+libssh2_channel_read returned -37
+proc.HasProc:	27
+proc.ActiveProc:	9
+proc.ZombieNum:	2
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	28
+proc.ActiveProc:	9
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmgHost check: 2, key: <none>
+ssh_init
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	29
+proc.ActiveProc:	9
+proc.ZombieNum:	0
+192.168.0.101 lmg lmglmglibssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+Host check: 2, key: <none>
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+proc.HasProc:	30
+proc.ActiveProc:	9
+proc.ZombieNum:	1
+192.168.0.101 lmg lmglmglibssh2_channel_read returned -37
+ssh_init
+libssh2_channel_read returned -37
+
+*ssh_cmd::pcmdstr=pwd
+
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+fd=5,read:Resource temporarily unavailableall done
+
+
+*ssh_cmd::pcmdstr=pwd
+
+
+*ssh_cmd::pcmdstr=pwd
+
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+Host check: 2, key: <none>
+ssh_init
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+
+
+*ssh_cmd::pcmdstr=pwd
+
+
+
+*ssh_cmd::pcmdstr=pwd
+
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned -37
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
+libssh2_channel_read returned 0
+
+*ssh_cmd::pcmdstr=
